@@ -1,2 +1,2 @@
 # Obsidian notes
-Repository to save my obsidian notes
+Repository to backup my obsidian notes
