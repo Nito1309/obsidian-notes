@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful commands/Linux commands.md"
+                "file": "DevOps foundations/DevOps Foundations course.md"
               }
             }
           }
@@ -161,9 +161,9 @@
   },
   "active": "0746b2d24076e92a",
   "lastOpenFiles": [
+    "Useful commands/Linux commands.md",
     "conflict-files-obsidian-git.md",
     "README.md",
-    "Useful commands/Linux commands.md",
     "DevOps foundations/DevOps Foundations course.md",
     "Useful commands",
     "DevOps foundations"

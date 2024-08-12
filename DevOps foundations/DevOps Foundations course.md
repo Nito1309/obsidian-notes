@@ -26,3 +26,4 @@ Course link: [DevOps Foundations](https://www.linkedin.com/learning-login/share?
 	2. Amplifying feedback loops.
 		* Feedback loop is a process that takes its own output into consideration when deciding what to do next 
 		* They must be short and effective
+	3. 
