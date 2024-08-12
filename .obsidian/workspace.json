@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b90d09c4c4755349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful commands/Linux commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -159,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0746b2d24076e92a",
+  "active": "b90d09c4c4755349",
   "lastOpenFiles": [
-    "DevOps foundations/DevOps Foundations course.md",
-    "Useful commands/Linux commands.md",
-    "Useful commands",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "Useful commands/Linux commands.md",
+    "DevOps foundations/DevOps Foundations course.md",
+    "Useful commands",
     "DevOps foundations"
   ]
 }
