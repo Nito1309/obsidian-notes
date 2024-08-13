@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fff8abfe57f4acc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps foundations/DevOps Foundations course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful commands/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Useful commands/Linux commands.md"
+                "file": "DevOps foundations/DevOps Foundations course.md"
               }
             }
           }
@@ -159,11 +171,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0746b2d24076e92a",
+  "active": "fff8abfe57f4acc3",
   "lastOpenFiles": [
-    "DevOps foundations/DevOps Foundations course.md",
-    "Useful commands/Linux commands.md",
     "conflict-files-obsidian-git.md",
+    "Useful commands/Linux commands.md",
+    "Blog/React roadmap.md",
+    "Blog/NextJS Roadmap.md",
+    "Blog",
+    "DevOps foundations/DevOps Foundations course.md",
     "README.md",
     "Useful commands",
     "DevOps foundations"

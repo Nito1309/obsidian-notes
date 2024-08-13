@@ -24,6 +24,7 @@ Course link: [DevOps Foundations](https://www.linkedin.com/learning-login/share?
 		* Do not try to optimize a part but at the end it costs more time in a big view.
 		* Focus on the overall outcome 
 		* Understand the whole system to optimize it
+<<<<<<< HEAD
 	2.  Amplifying feedback loops. 
 		* Feedback loop is a process that takes its own output into consideration when deciding what to do next
 		* Prevents a bug was discovered by a client and all the time to fix it.
