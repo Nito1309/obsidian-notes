@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blog/React roadmap.md",
+                "file": "Useful commands/Linux commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b4c04008854607c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim/Vim commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/React roadmap.md",
+                "file": "Vim/Vim commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/React roadmap.md",
+                "file": "Vim/Vim commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/React roadmap.md"
+                "file": "Vim/Vim commands.md"
               }
             }
           }
@@ -183,15 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b08f1216b4d2cdbd",
+  "active": "4b4c04008854607c",
   "lastOpenFiles": [
-    "Blog/NextJS Roadmap.md",
+    "Useful commands/Linux commands.md",
+    "Vim/Vim commands.md",
+    "Vim",
+    "README.md",
     "Blog/React roadmap.md",
+    "Blog/NextJS Roadmap.md",
     "Blog",
     "DevOps foundations/DevOps Foundations course.md",
-    "Useful commands/Linux commands.md",
     "conflict-files-obsidian-git.md",
-    "README.md",
     "Useful commands",
     "DevOps foundations"
   ]
