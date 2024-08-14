@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bfb7074b04b8bb8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Vim commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Vim commands.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,16 +186,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim commands.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,17 +207,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b4c04008854607c",
+  "active": "bfb7074b04b8bb8b",
   "lastOpenFiles": [
-    "Useful commands/Linux commands.md",
-    "Vim/Vim commands.md",
-    "Vim",
     "README.md",
+    "conflict-files-obsidian-git.md",
+    "Vim/Vim commands.md",
+    "Useful commands/Linux commands.md",
+    "Vim",
     "Blog/React roadmap.md",
     "Blog/NextJS Roadmap.md",
     "Blog",
     "DevOps foundations/DevOps Foundations course.md",
-    "conflict-files-obsidian-git.md",
     "Useful commands",
     "DevOps foundations"
   ]
