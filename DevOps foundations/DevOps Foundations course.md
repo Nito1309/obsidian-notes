@@ -24,7 +24,6 @@ Course link: [DevOps Foundations](https://www.linkedin.com/learning-login/share?
 		* Do not try to optimize a part but at the end it costs more time in a big view.
 		* Focus on the overall outcome 
 		* Understand the whole system to optimize it
-<<<<<<< HEAD
 	2.  Amplifying feedback loops. 
 		* Feedback loop is a process that takes its own output into consideration when deciding what to do next
 		* Prevents a bug was discovered by a client and all the time to fix it.
@@ -66,8 +65,31 @@ Course link: [DevOps Foundations](https://www.linkedin.com/learning-login/share?
 	* Critical thinking
 	* Gemba / Kaizen
 		* emphasizes going right to the source where value is being created
-
-
-
-
-
+6. DevOps is an extension of agile
+7. Lean Remove waste *muda* (unnecessary, necessary but no value...)
+8. Change control
+	* Review
+		 Every change needs to be reviewed, approved and documented.
+	* Lightweight
+		 Changes should be kept as small as possible
+	* Test
+		 All changes should be tested
+	* Schedule
+9. Infrastructure as code
+	* Provisioning and managing infrastructure through writing automation code
+	* Write code in version control system
+	* Run it through a build system that tests it
+	* End up with a single artifact that can be downloaded
+	* Configuration management
+		 Process to create and maintain computer systems and software in a desired, consistent state.
+		 1. Provisioning
+		     Creating a system of computing infrastructure and making it ready for operation
+		 2. Deployment
+		     Installing and upgrading applications on a system
+		 3. Orchestration
+		     Performing coordination and management of computer systems and software
+		     ![[Pasted image 20240814141913.png]]
+10. CI / CD
+	* CI (Continuous Integration): Automatically build and test each code change
+	* CD (Continuous Delivery): Automatically deploy and test each code change
+	* Continuous Deployment: Automatically release each passing release candidate to production
