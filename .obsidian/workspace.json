@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim/Vim commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Linux commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c8a35c2a7a5400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/NextJS Roadmap.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4b4c04008854607c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vim/Vim commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vim/Vim commands.md",
+                "file": "DevOps foundations/DevOps Foundations course.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,16 +162,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vim/Vim commands.md"
+                "file": "DevOps foundations/DevOps Foundations course.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,20 +183,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3af2296a33a4c8b",
+  "active": "4b4c04008854607c",
   "lastOpenFiles": [
-    "DevOps foundations/DevOps Foundations course.md",
+    "Pasted image 20240814202639.png",
+    "Vim/Vim commands.md",
+    "conflict-files-obsidian-git.md",
+    "Untitled.canvas",
+    "2024-08-14.md",
+    "Untitled 1.canvas",
+    "Linux/Linux commands.md",
+    "Linux",
     "Images/Pasted image 20240814141913.png",
     "Images",
-    "Vim/Vim commands.md",
-    "Linux/Linux commands.md",
+    "README.md",
+    "Useful commands/Linux commands.md",
     "Vim",
-    "conflict-files-obsidian-git.md",
     "Blog/React roadmap.md",
     "Blog/NextJS Roadmap.md",
     "Blog",
-    "README.md",
-    "Linux",
+    "DevOps foundations/DevOps Foundations course.md",
+    "Useful commands",
     "DevOps foundations"
   ]
 }

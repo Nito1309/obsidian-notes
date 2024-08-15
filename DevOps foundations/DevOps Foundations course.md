@@ -90,6 +90,34 @@ Course link: [DevOps Foundations](https://www.linkedin.com/learning-login/share?
 		     Performing coordination and management of computer systems and software
 		     ![[Pasted image 20240814141913.png]]
 10. CI / CD
+  ![[Pasted image 20240814202639.png]]
 	* CI (Continuous Integration): Automatically build and test each code change
 	* CD (Continuous Delivery): Automatically deploy and test each code change
 	* Continuous Deployment: Automatically release each passing release candidate to production
+12. Six CI practices
+	1. Fast builds
+	2. Commit small changes
+	3. Don't leave the build broken
+	4. use a trunk-based development flow
+	5. don't allow flaky automated test, fix it
+	6. the build should return a status, a log or an artifact
+13. Five CD practices
+     *it's now how much you can deliver, but how little*
+    1. Build artifacts only once
+    2. Artifact should be immutable
+    3. Deploy to a production-like environment
+    4. Stop deploys if a previous step fails
+    5. Deploys should be idempotent (ensures that if the operation is repeated more than once you get the same result).
+13. Testing 
+	* Unit testing
+	* Code hygiene
+	* Integration testing
+	* Acceptance (end-to-end) testing
+	* TDD (test driven dev) / BDD (behavior driven dev)
+		 Test the app before the implementation and after it, and compare the changes.
+	* Three Strategies
+		1. Run non-blocking test in parallel in your pipeline.
+		2. Use scheduled testing (for example, nightly test suite)
+		3. Run them continuously
+
+ 
