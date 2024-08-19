@@ -44,3 +44,8 @@ export PATH="/path/to/executable:$PATH"
 ```
  cd /etc/apt/sources.list.d/
 ```
+
+#### Print the booted initrd image 
+```
+ls -l /boot/initrd.img-$(uname -r)
+```
