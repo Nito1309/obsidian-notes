@@ -4,7 +4,9 @@ You must be in runner directory
 # RESTART SERVICE
 sudo ./svc.sh stop 
 sudo ./svc.sh start
+```
 
+```
 # WINDOWS 
 .\svc.cmd stop
 .\svc.cmd start 
