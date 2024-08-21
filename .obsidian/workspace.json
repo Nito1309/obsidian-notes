@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "aae3c851f5e1adb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Github actions/Runners config commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0746b2d24076e92a",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Linux commands.md",
+                "file": "Github actions/Runners config commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Linux commands.md",
+                "file": "Github actions/Runners config commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Linux commands.md"
+                "file": "Github actions/Runners config commands.md"
               }
             }
           }
@@ -158,14 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3af2296a33a4c8b",
+  "active": "aae3c851f5e1adb7",
   "lastOpenFiles": [
+    "Linux/Linux commands.md",
+    "Github actions/Runners config commands.md",
+    "Github actions",
     "Vim/Vim commands.md",
     "Images/Pasted image 20240814202639.png",
     "DevOps foundations/DevOps Foundations course.md",
     "Images/Pasted image 20240814141913.png",
     "Images",
-    "Linux/Linux commands.md",
     "Vim",
     "conflict-files-obsidian-git.md",
     "Blog/React roadmap.md",
