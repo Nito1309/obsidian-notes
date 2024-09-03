@@ -53,5 +53,5 @@ ls -l /boot/initrd.img-$(uname -r)
 #### Stop pop-up to restart the services
 They will automatically restart with 'a' value or with 'l' the services that require restart will be listed
 ```
-sed -i "/#\$nrconf{restart} = 'i';/s/.*/\$nrconf{restart} = 'a';/" /etc/needrestart/needrestart.conf
+sudo sed -i "/#\$nrconf{restart} = 'i';/s/.*/\$nrconf{restart} = 'a';/" /etc/needrestart/needrestart.conf
 ```
