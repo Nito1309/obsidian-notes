@@ -5,9 +5,9 @@ Year: "1951"
 #aesthetics #philosophy #essay
 
 ## Introduccion
-El proposito del ensayo refiere a destacar el concepto moderno de las artes a partir del Siglo XVIII. Destaca que anteriormente, el concepto de arte y belleza eran distintos y se ha cometido el error de leer a ciertos autores con la idea moderna. Asimismo, menciona como el cambio destaca con Kant, y posteriormente con en el nombramiento de las cinco bellas artes y su relacion entre ellas, cosa que anteriormente se entendian distinto y carecian de relacion.
+El proposito del ensayo refiere a destacar el concepto moderno de las artes a partir del Siglo XVIII. Destaca que anteriormente, el concepto de arte y belleza eran distintos y se ha cometido el error de leer a ciertos autores con la idea moderna. Asimismo, menciona como el cambio destaca con Kant, y posteriormente con en el nombramiento de las cinco bellas artes y su relacion entre ellas, cosa que anteriormente se entendian distinto y carecian de relacion entre ellas.
 
-El termino arte en la antiguedad se aplicaba a todo tipo de actividades humanas que nosotros llamariamos como artesanias o ciencias, mientra que la modernidad subraya que el arte no se puede enseñar ni aprender, cosa contraria el concepto antiguo.
+El termino arte en la antiguedad se aplicaba a todo tipo de actividades humanas que nosotros llamariamos como artesanias o ciencias, mientras que la modernidad subraya que el arte no se puede enseñar ni aprender.
 
 ## La belleza
 ### Antigüedad
@@ -66,7 +66,9 @@ Posteriormente, un grupo de sus aprendices escoceses modificaron su doctrina sep
 
 > *Así, la psicología de la escuela escocesa abrió el camino a la doctrina de las tres facultades del alma, que encontró su desarrollo final en Kant*
 #### Aesthetica como rama de la filosofia
-El primer escritor que acuño el termino de estetica fue Baumgarten con su teoria del conocimiento sensual como contrapartida a la logica como conocimiento intelectual. Al comienzo de su libro, narra su intencio de dar una teoria de todas la artes, incluyendo artes visuales y musica. Sin embargo, en el desarrollo de su libro incompleto, se enfoca mas en la elocuencia y poesia.
+El primer escritor que acuño el termino de estetica fue Baumgarten con su teoria del conocimiento sensorial como contrapartida a la logica como conocimiento intelectual. Al comienzo de su libro, narra su intencion de dar una teoria de todas la artes, incluyendo artes visuales y musica. Sin embargo, en el desarrollo de su libro incompleto, se enfoca mas en la elocuencia y poesia.
+
+[[01 On philosophical aesthetics]]
 
 Baumgarten concibio por primera vez una teoria general de las artes como disciplina filosofica independiente. Careciendo de una lista o division sistematica de las artes, siendo superado por los franceses con Batteux. 
 
@@ -91,6 +93,12 @@ El Laokoon de Lessing (1766) es una de las obras mas importantes, no solo por la
 - En su crítica al juicio estético, Kant trata también los conceptos de lo sublime y de la belleza natural, pero su mayor énfasis está en la belleza en las artes, y discute muchos conceptos y principios comunes a todas las artes. En la sección 51 también ofrece una división de las bellas artes: artes de la palabra (poesía, elocuencia); artes plásticas (escultura, arquitectura, pintura y jardinería); artes del bello juego de los sentimientos (música y el arte del color).
 
 **Desde Kant la estética ha ocupado un lugar permanente entre las principales disciplinas filosóficas**
+
+### Apendices personales
+
+> *...a partir de la segunda mitad del siglo XVIII, empezo a convertir esto que se llama "arte" (un cuadro, una escultura, una pieza musical...) en un producto con valor comercial,, que podia ser comprado, intercambiado, exchibido, y que, por tanto, exigia tambien un criterio con pretensiones de objetividad acerca de su valor tanto artistico como monetario.*
+
+Aprender a pensar (2015) Plotino. RBA. 
 ## Conclusiones
 
 > *Estamos acostumbrados al proceso por el cual las nociones formuladas por primera vez por grandes e influyentes pensadores se difunden gradualmente entre escritores secundarios y finalmente se convierten en propiedad común del público en general. Tal parece haber sido el desarrollo de la estética desde Kant hasta el presente. Su historia antes de Kant es muy diferente. Las cuestiones y concepciones básicas que subyacen a la estética moderna parecen haberse originado al margen de las tradiciones de la filosofía sistemática o de los escritos de importantes autores originales. Tuvieron sus inicios discretos en **autores secundarios, ahora casi olvidados**, aunque influyentes en su propia época, y quizás en las discusiones y conversaciones de legos cultos reflejadas en sus escritos.*
