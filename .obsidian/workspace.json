@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Aesthetics/Plotino's.md",
+                "file": "Philosophy/Aesthetics/Poethics.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 243.5
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Aesthetics/Plotino's.md",
+                "file": "Philosophy/Aesthetics/Poethics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Aesthetics/Plotino's.md",
+                "file": "Philosophy/Aesthetics/Poethics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Aesthetics/Plotino's.md"
+                "file": "Philosophy/Aesthetics/Poethics.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,13 +149,15 @@
   },
   "active": "a451f269daa31a5f",
   "lastOpenFiles": [
-    "Dev/Github actions/Useful commands.md",
-    "Philosophy/Aesthetics/Plotino's.md",
-    "Philosophy/Aesthetics/El sistema moderno de las artes.md",
-    "Philosophy/Aesthetics/Beauty.md",
-    "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
-    "README.md",
     "Philosophy/Aesthetics/00 Introduccion.md",
+    "Philosophy/Aesthetics/Poethics.md",
+    "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
+    "Philosophy/Aesthetics/02 Plato on divine inspiration.md",
+    "Philosophy/Aesthetics/El sistema moderno de las artes.md",
+    "Philosophy/Aesthetics/Plotino's.md",
+    "Philosophy/Aesthetics/Beauty.md",
+    "Dev/Github actions/Useful commands.md",
+    "README.md",
     "Philosophy/Aesthetics",
     "Philosophy",
     "Blog/NextJS Roadmap.md",

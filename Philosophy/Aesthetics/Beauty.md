@@ -22,3 +22,33 @@ En el siglo XVIII, Hume y Kant se dieron cuenta que las discusiones eran generad
 
 Se dice que el gusto es subjetivo, pero discutimos acerca del buen gusto, algunas personas parecer tener buen gusto y otras un pesimo gusto. Algunas tienen gusto y otras poco o nulo gusto. El gusto parece ser tanto subjetivo como objetivo: ***La antonimia del gusto****.
 
+### Del Gusto Subjetivo a la Concepción Clásica
+
+- **La Antinomia del Gusto (Hume y Kant)**:
+    - Reconoce que la belleza es fundamentalmente subjetiva y depende del placer experimentado por el individuo.
+    - Sin embargo, sostiene que algunos juicios de gusto son mejores que otros, permitiendo la existencia de "ejemplares" de buen gusto frente a la vulgaridad.
+    - Propone que los juicios de belleza poseen una validez **intersubjetiva**, es decir, tienen un aspecto social y cultural que conlleva una pretensión de validez para los demás.
+- **El Estándar de Hume**:
+    - Hume traslada el enfoque del objeto al observador.
+    - Define al crítico ideal como alguien con un "sentido fuerte", "sentimiento delicado", libre de prejuicios y con práctica comparativa.
+    - El estándar práctico de belleza es el veredicto conjunto de estos críticos a lo largo del tiempo.
+- **El Desinterés y la Universalidad en Kant**:
+    - Un juicio de belleza genuino debe ser **desinteresado**, es decir, independiente de deseos personales, económicos o sexuales.
+    - Al ser desinteresado, el sujeto asume que cualquier otra persona en su misma situación debería tener la misma experiencia de placer.
+    - Esto genera una "demanda" de que los demás coincidan con nuestro juicio, lo cual explica por qué discutimos sobre el gusto.
+- **La Belleza como Relación (Visiones Modernas)**:
+    - Autores como Santayana definen la belleza como "placer objetivado", donde atribuimos nuestra emoción interna al objeto mismo.
+    - Sartwell y Nehamas proponen que la belleza no está solo en el sujeto o el objeto, sino en la **relación** entre ambos y el entorno.
+    - La belleza actúa como un "emblema de lo que nos falta" y una invitación a crear comunidades de apreciación compartida.
+## Las concepciones filosoficas de belleza
+- **2.1 La Concepción Clásica**:
+    - Es la visión primordial de Occidente, donde la belleza es una propiedad **objetiva** del objeto.
+    - Consiste en la organización de partes integrales en un todo coherente basado en la **proporción, armonía y simetría**.
+    - Se asocia frecuentemente con fórmulas matemáticas y proporciones geométricas (como la sección áurea).
+    - **El Canon de Policleto**: Un modelo ejemplar donde la belleza se logra mediante relaciones matemáticas exactas entre cada parte del cuerpo.
+    - **Exponentes Clave**:
+        - **Aristóteles**: La belleza requiere orden, simetría y definición.
+        - **Vitruvio**: La arquitectura bella surge del ajuste balanceado de los detalles en relación con el todo.
+        - **Tomás de Aquino**: Añade los requisitos de integridad (perfección), proporción y claridad (brillo).
+        - **Hutcheson**: Define la belleza como una razón compuesta entre **uniformidad y variedad**.
+
