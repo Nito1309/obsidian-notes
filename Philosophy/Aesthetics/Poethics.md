@@ -10,22 +10,29 @@ Incluye en la poetica a:
 Todas son imitaciones.
 
 Se diferencian por imitar:
-- con medios diversos
-	- ritmo
-	- canto
-	- verso
-	- lenguaje
-	- armonia?
-- objetos diversos
-	- Instrumentos, colores, figuras, voz, etc.
-- con modo.
+-  Medios
+	- Ritmo
+		- Danza
+	- Lenguaje
+		- Prosa
+		- Verso
+	- Armonia
+		- Canto
+- Objeto. Modo de ser u obrar.
+	- Caracteres. 
+		- **Virtuoso**. Mejores que nosotros.
+		- **Vicioso**. Peores que nosotros.
+		- **Mismo** nivel que nosotros.
+	- Pasiones?
+	- Acciones?
+- Modo - Método.
 	- Danza imita con
 		- medios
 			- ritmo
 		- objetos
-			- figuras
 			- pasiones
 			- acciones
+			- caracteres
 
 Pero el arte que imita solo con el lenguaje no tiene nombre:
 - verso
@@ -35,7 +42,7 @@ ambos son llamados poetas.
 Para Aristóteles, deben ser llamados poetas los que imitan con el lenguaje y no los que componen versos. Puede haber textos "filosóficos" escritos en verso y no deben ser poetas, sino "**naturalistas**".
 # II: Diferenciación de las artes por los objetos imitados
 
-Una imitación se diferencia como mejor o peor en base a la cercanía de realidad de su "objeto" imitado e.g. los caracteres de los hombres reales
+Una imitación se diferencia como mejor o peor en base a la cercanía de realidad de su "objeto" imitado e.g. los caracteres de los hombres reales.
 # III: Diferenciación por el modo de imitar
 
 - Con los mismos medios es posible imitar las mismas cosas pero de diferente modo. Por ejemplo, el poeta épico narra una historia, sin embargo, puede hacerlo mediante el dialogo de los personajes (se convierte en "otro", cosa del buen poeta) o mediante él mismo sin cambiar.
@@ -60,6 +67,7 @@ El historiador dice lo que ha sucedido y el poeta lo que podría suceder, según
 # Comedia
 ## V: Desarrollo de la comedia. 
 #### Comedia
+- La comedia es imitación de hombres inferiores que nosotros.
 - Lo risible es feo. (no cuenta con suficiente magnitud ni orden)
 - La comedia al no ser tomada enserio pasó inadvertida. 
 - Únicamente se incorpora un coro de voluntarios. 
@@ -67,34 +75,23 @@ El historiador dice lo que ha sucedido y el poeta lo que podría suceder, según
 - La epopeya es semejante a la tragedia al tener verso y tener argumento. Se diferencia al tener un verso uniforme y ser un relato. 
 - La tragedia se atiene a una revolución del sol (un día?) mientras que la epopeya es ilimitada.
 - Los elementos de la epopeya se dan en la tragedia pero no viceversa.
-
 # La tragedia
 ## VI: Definición de la tragedia. Explicación de sus elementos.
 
-La **tragedia** es una imitación de una acción esforzada y completa, de cierta amplitud, con ritmo (repetición estructurada), armonía (dulzura de los sonidos e.g. sonido en canto, instrumento, recitar) y canto. La tragedia separa canto y coro, actúan los personajes y no mediante el relato (narración), y que **mediante compasión y temor** lleva a cabo la purgación de tales afecciones.
+La **tragedia** es una imitación de una acción esforzada y completa, de cierta amplitud, con ritmo (repetición estructurada), armonía (dulzura de los sonidos e.g. sonido en canto, instrumento, recitar) y canto. La tragedia separa canto y coro, actúan los personajes y no mediante el relato (narración), y que **mediante compasión y temor** lleva a cabo la purgación (katharsis) de tales afecciones. ^tragedia
 
-Medios de imitación:
-1. Modos
-	- melopeya (coro)
-	- elocución (verso)
-2. Objetos
-	- hechos
-	- caracteres (situaciones que causan la decisión)
-	- pensamientos("*saber decir lo implicado en la acción y lo que hace al caso*")
+Se conforma de seis partes, en ellas reside su calidad: ^elementos
+1. **Fabula**: composición de los hechos. Alma de la tragedia.
+2. **Personajes**. Caracteres.
+3. **Elocución**: Lenguaje. Composición de los versos (sonidos, letras, palabras, gramática y demás).
+4. **Pensamiento**: aquello en que al hablar, manifiestan algo o bien declaran su parecer. (Idea, temática, mensaje, pregunta que deja).
+5. **Espectáculo**: puesta en escena.
+6. **Melopeya**: (composición del canto/coro). ^elementos-tragedia
 
-Se conforma de seis partes, en ellas reside su calidad:
-1. Fabula
-2. caracteres (situaciones que causan la decision)
-3. elocución en verso
-4. pensamiento (diálogos con coherencia) 
-5. Decoración del espectáculo
-6. melopeya (entonación-rítmica? / composición del canto/coro?)
-
-1. El mas importante es la estructuración de los argumentos/hechos, ya que la tragedia imita acciones y toda la tragedia se rige en las acciones/hechos e.g. en base a los hechos actuan los personajes, diálogos, decoración, etc.
-	El fin de la tragedia son los hechos(historias) y argumentos. Es el principio o el alma de la tragedia.
+1. El mas importante es la estructuración de los argumentos/hechos, ya que la tragedia imita acciones y toda la tragedia se rige en las acciones/hechos e.g. en base a los hechos actúan los personajes, diálogos, decoración, etc.
+	El fin de la tragedia son los hechos (historias) y argumentos. Es el principio o el alma de la tragedia.
 2. En segundo lugar son los personajes. 
 3. En tercer lugar el pensamiento.
-
 ## Fabula o Guión
 ### VII: Sobre la fabula o estructuración de los hechos
 
@@ -104,11 +101,13 @@ Es **entero** aquello que tiene **principio**, **medio** y **fin**.
 - **Medio** es lo que sigue una cosa y es seguido por otra.
 
 La **belleza** consiste en **magnitud** y **orden**. Aquello que es bello, no debe ser ni demasiado grande ni demasiado pequeño, debe ser fácilmente apreciado en conjunto.
-- La **magnitud** de la tragedia es la extensión. Debe ser recordable fácilmente. La memoria es con relación a la fabula (argumento), como la vista con relación a los cuerpos. El límite de la magnitud es suficiente, mientras pueda verse en conjunto, sea recordada fácilmente, desarrollándose los acontecimientos en sucesión verosímil y se produce la transición del infortunio a la dicha o viceversa.
+- La **magnitud de la tragedia** es la extensión. Debe ser recordable fácilmente. La memoria es con relación a la fabula (argumento), como la vista con relación a los cuerpos. El límite de la magnitud es suficiente, mientras pueda verse en conjunto, sea recordada fácilmente, desarrollándose los acontecimientos en sucesión verosímil y se produce la transición del infortunio a la dicha o viceversa.
+
+---
+Magnitud: Todo aquello que tiene partes y es susceptible de medición.
 ### VIII: Sobre la unidad del fabula
 
 La fabula tiene unidad, ya que a *uno* le suceden infinidad de cosas (el uno precede). Así como hay muchas acciones de *uno* solo. Lo que da unidad a la fabula, no es el héroe o protagonista, sino la acción sucedida/elegida/contada.
-
 ### X: Fabulas simples y complejas
 
 - La **fabula simple** es la cual se produce el cambio de fortuna sin peripecia ni agnición (reconocimiento de una persona). 
@@ -118,16 +117,15 @@ La fabula tiene unidad, ya que a *uno* le suceden infinidad de cosas (el uno pre
 - La composición debe ser una tragedia compleja.
 - Debe ser imitadora de acontecimientos que inspiren temor y miedo.
 - Lo que la compasión al inocente como el temor al semejante.
-- Lo bello es el personaje intermedio, esto es que ni sobresale por su virtud ni cae en desdicha por su bajeza o maldad, sino por ignorancia nociva, siendo los que gozaban de prestigio y felicidad.
+- Lo bello es el personaje intermedio, esto es que ni sobresale por su virtud ni cae en desdicha por su bajeza o maldad, sino por ignorancia nociva, siendo los que gozaban de prestigio y felicidad. (Hamartia).
 - **La fabula doble** es aquella que tiene dos desenlaces, los malos caen en dicha del infortunio y los buenos pasan del infortunio a la dicha; es la más común porque se pliegan al deseo de los espectadores. Es más propio de la comedia.
 - Las fabulas que terminan únicamente en infortunio son las más trágicas y mejores, e.g. Eurípides.
 ### XI: Sobre la peripecia, agnición y el lance patetico
 
 - **Peripecia** es el cambio de la acción en sentido contrario sin ser planeado. (Giro dramático).
-- La **agnición** es un cambio desde la ignorancia al conocimiento (reconocimiento de una persona o de sí mismo). La agnición más perfecta es cuando es acompañada de la peripecia, e.g. Edipo rey. 
+- La **agnición** es un cambio desde la ignorancia al conocimiento (reconocimiento de una persona o de sí mismo o como usar/hacer algo). La agnición más perfecta es cuando es acompañada de la peripecia, e.g. Edipo rey. 
 - El **lance patético** es una acción destructora o dolorosa.
 La más propia de la fabula y la más convincente es aquella que produce temor o compasión.
-
 ### XVI: Varias especies de agnición
 
 1. Las más usadas las que se producen por señales. Las que nacen de una peripecia son mejores. Pueden ser:
@@ -137,6 +135,8 @@ La más propia de la fabula y la más convincente es aquella que produce temor o
 3. Las causadas por el recuerdo. (por retratos o canciones).
 4. Las que proceden de un silogismo/deducción.
 
+- Puede haber agniciones basadas en un paralogismo. Por ejemplo: si la tierra esta mojada asumimos que llovió (puede ser falso).
+- La mejor de todas es la causada por los hechos mismos. En segundo lugar están las que proceden de un silogismo.
 ### XIV: La compasión y el temor deben nacer de la estructura de la fabula
 
 - Ambos pueden surgir desde el espectáculo o de la estructura de la fabula. El primero es mas costoso, menos artístico y de menor poeta.
@@ -151,16 +151,15 @@ Se divide, en sentido cuantitativo en:
 5. Éxodo es la salida.
 ## XV: Las cuatro cualidades de los caracteres
 
-1. bueno (será bueno si la decisión es buena)
-2. apropiado (lo varonil al hombre, no a la mujer)
-3. semejanza (el poeta "ennoblece" al personaje {adaptarlo semejante al publico}, pero manteniendo su semejanza a la persona real)
-4. consecuencia (coherencia en el personaje, e.g. evitar maldad sin necesidad, lamentación en un personaje de tanto ánimo, etc).
+La tragedia es imitación de personas mejores que nosotros.
+1. Bueno (será bueno si la decisión es buena).
+2. Apropiado (lo varonil al hombre, no a la mujer).
+3. Semejanza (el poeta "ennoblece" al personaje {adaptarlo semejante al publico}, pero manteniendo su semejanza a la persona real).
+4. Consecuencia (coherencia en el personaje, e.g. evitar maldad sin necesidad, lamentación en un personaje de tanto ánimo, etcétera).
+
+Es preciso buscar siempre lo necesario o verosímil, que tal personaje habla u obre de tal modo.
 
 ***deus ex machina*:** el desenlace de la fabula tiene que venir de la misma fabula, no de algo externo, divino y salvador; injustificado.
-
-
-Puede haber agniciones basadas en un paralogismo. Por ejemplo: si la tierra esta mojada asumimos que llovió (puede ser falso).
-La mejor de todas es la causada por los hechos mismos. En segundo lugar están las que proceden de un silogismo.
 ## XVII: Consejo a los poetas (tragediógrafos)
 
 - Ser lo más claro ante la audiencia.
@@ -181,7 +180,7 @@ La mejor de todas es la causada por los hechos mismos. En segundo lugar están l
 ## Elocución
 ### XIX: Sobre el pensamiento y la elocución
 
-- Corresponde al **pensamiento** todo lo que debe alcanzarse mediante las *partes del discurso* sin enseñanza. Las pasiones deben nacer espontáneamente de la acción.
+- Corresponde al **pensamiento** todo lo que debe alcanzarse mediante las *partes del discurso* sin enseñanza. Las pasiones deben nacer espontáneamente de la acción. (Dejar un mensaje o una gran pregunta).
 - Las **partes del discurso** son demostrar, refutar, despertar amplificar y disminuir ***pasiones***.
 - La **elocución** corresponde al arte del actor y no puede criticar al poeta por esto.
 ### XX: Las partes de la elocución
@@ -204,19 +203,83 @@ La mejor de todas es la causada por los hechos mismos. En segundo lugar están l
 - **Enunciación**: Acto de producir un mensaje.
 ### XXI: Sobre las especies del nombre
 
+- **Simple**: no se compone de partes significativas.
+- **Multiple**: Se compone de partes significativas.
+
+Todo nombre es:
+- **Usual**: al que usan todos en un lugar determinado.
+- **Palabra extraña**: al que usan otros (fuera del lugar determinado). Un mismo nombre puede ser palabra extraña y usual, mas no para los mismos.
+- **Metáfora**: traslación de un nombre ajeno.
+- **Adorno**: *ha desaparecido la parte de la poética que habla del término*.
+- **Inventado**: Es aquel que no siendo inventado por nadie, lo establece un poeta.
+- **Alargado**: Si emplea una vocal más larga o una sílaba intercalada.
+- **Abreviado**: Si se le ha quitado algo.
+- **Alterado**: cuando se conserva una parte del vocablo y se inventa otra.
+
+Unos son:
+- Masculinos
+- Femeninos
+- Intermedios
+
+- Analogía: el segundo término sea la primero como el cuarto al tercero. El La copa es a Dioniso como el escudo a Ares. Ergo, La copa de Ares (el escudo) o El escudo de Dioniso (su copa).
+
 ### XXII: La excelencia de la elocución
 
+- La excelencia de la elocución consiste en que sea clara sin ser baja.
+- Es importante usar convenientemente cada uno de los recursos mencionados, pero más importante es dominar la metáfora, es lo único que no se puede tomar del otro, y es indicio de talento; pues hacer buenas metáforas es *percibir* la semejanza.
 # Epopeya
 
 ## XXIII: Unidad de acción en la epopeya
 
+Se debe estructurar la fabula como en las tragedias mas en verso:
+![[#^tragedia]]
+
+Usando a Homero de ejemplo, se considera divino a Homero por no usar toda la guerra, sino una parte y usó muchas otras como episodios.
 ## XXIV: Especies y partes de la epopeya
 
+Debe tener las mismas que la tragedia. Fuera de la melopeya y el espectáculo.
+![[#^elementos]]
+1. **Fabula**: composición de los hechos. Alma de la tragedia.
+2. **Personajes**. Caracteres.
+3. **Elocución**: Lenguaje. Composición de los versos (sonidos, letras, palabras, gramática y demás).
+4. **Pensamiento**: aquello en que al hablar, manifiestan algo o bien declaran su parecer. (Idea, temática, mensaje, pregunta que deja).
+
+- Se distingue por la larga composición y por el verso. 
+- El limite ideal es un día en una audición.
+- En la tragedia no es posible imitar varias partes de la acción como desarrollándose al mismo tiempo.
+- El poeta debe decir muy pocas cosas, pues al hacer esto no es imitador.
+- Lo irracional tiene más cabida en la epopeya, porque no se ve al que actúa.
+- Se debe preferir lo posible inverosímil que lo posible increíble.
 # XXV: Problemas críticos y soluciones
 
+El poeta puede representar las cosas:
+- como son
+- como se cree o se dice que son
+- como deben ser
+Éstas cosas se expresan con una elocución usando:
+- Palabra extraña
+- Metáfora
+- Muchas alteraciones del lenguaje
+
+No es lo mismo la corrección de la político como de la poesía.
+
+Su error puede ser:
+- Consustancial: fracasar a causa de su impotencia. Mala imitación.
+- Accidental: buena imitación pero le atribuye algo que no tiene.
+
+El error es aceptable si ayuda a alcanzar el fin del arte: provocar el miedo o la compasión y, consecuentemente, la catarsis.
+
+Yerra menos el que ignora que la cierva no tiene cuernos que quien la pinta sin ningún motivo.
+
+También existen errores de elocución (ortográficos, gramáticos, de doble sentido y demás).
 # XXVI: ¿Es superior la epopeya o la tragedia?
 
+- La tragedia sin actuación produce su propio efecto, igual que la epopeya, pues sólo con leerla se puede ver su calidad.
+- La tragedia tiene todo lo que tiene la epopeya y todavía, la música y el espectáculo; medios eficaces para deleitar.
+- Tiene la ventaja de ser visible en la lectura y en la representación.
+- El fin de la imitación de cumple en menor extensión.
 
+Por consiguiente, si la tragedia sobresale por todas estas cosas está claro que será superior, puesto que alcanza su fin mejor que la epopeya.
 
 
 
