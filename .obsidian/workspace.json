@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Aesthetics/Poethics.md",
+                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophy/Aesthetics/Poethics.md",
+                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophy/Aesthetics/Poethics.md",
+                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Aesthetics/Poethics.md"
+                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md"
               }
             }
           }
@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 214.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +149,10 @@
   },
   "active": "a451f269daa31a5f",
   "lastOpenFiles": [
-    "^e.md",
     "Philosophy/Aesthetics/Poethics.md",
+    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
+    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
+    "^e.md",
     "Philosophy/Aesthetics/Plotino.md",
     "Philosophy/Aesthetics/The modern system of the arts.md",
     "Philosophy/Aesthetics/00 Introduction.md",
