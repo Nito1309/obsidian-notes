@@ -16,7 +16,9 @@
                 "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "La norma del gusto y otros escritos sobre estética"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +53,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#aesthetics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for La norma del gusto y otros escritos sobre estética"
             }
           },
           {
@@ -105,7 +116,9 @@
                 "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from La norma del gusto y otros escritos sobre estética"
             }
           },
           {
@@ -115,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md"
-              }
+                "file": "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of La norma del gusto y otros escritos sobre estética"
             }
           }
         ],
@@ -138,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,16 +172,15 @@
   },
   "active": "a451f269daa31a5f",
   "lastOpenFiles": [
+    "Philosophy/Aesthetics/Beauty.md",
+    "Philosophy/Aesthetics/The modern system of the arts.md",
+    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
     "Philosophy/Aesthetics/Poethics.md",
-    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
-    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
     "^e.md",
     "Philosophy/Aesthetics/Plotino.md",
-    "Philosophy/Aesthetics/The modern system of the arts.md",
     "Philosophy/Aesthetics/00 Introduction.md",
     "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
     "Philosophy/Aesthetics/02 Plato on divine inspiration.md",
-    "Philosophy/Aesthetics/Beauty.md",
     "Dev/Github actions/Useful commands.md",
     "README.md",
     "Philosophy/Aesthetics",
