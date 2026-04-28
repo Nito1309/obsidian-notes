@@ -1,8 +1,9 @@
 ---
 Author: Immanuel Kant
 Publisher: FCE
+Year: "1764"
 ---
-#philosophy #aesthetics 
+#philosophy #aesthetics #kant
 
 # Estudio preliminar
 
@@ -48,6 +49,7 @@ Se interpreta este silencio como una suspensión; una posición de reserva espec
 - Había en Kant cierta anglofilia (admiración por el pueblo inglés).
 - Esta experiencia de la sociabilidad que Kant estaba viviendo en concreto en sus diversos aspectos, con todas sus posibilidades y limitaciones, será uno de los temas centrales de las *Observaciones*.
 ### Influencia de Rousseau
+#rousseau
 
 - En sus *Observaciones*, deja sentir el nuevo estilo personal (existencia) que Rousseau introduce en la literatura filosófica y que tanto cautivó a Kant.
 - Suspendió su régimen habitual de vida a fin de no interrumpir su lectura de *Sobre la educación*.
@@ -62,6 +64,32 @@ Kant tenía la costumbre de consignar por escrito cuanta idea le venía a la cab
 En las *Observaciones* Kant examina dos sentimientos que solemos considerara únicamente bajo el punto de vista estético pero que para él revisten, además, un aspecto ético y social; trasladarlos a una esfera práctica y antropológica.
 Kant nos hará ver que lo bello y lo sublime, son más bien, disposiciones (voluntad/actitud) del ser humano y, más precisamente, disposiciones naturales y prácticas de éste; son parte inherente de la moral y de la vida comunitaria humana, es decir, de la sociabilidad.
 ### El sentimiento de lo bello
+#beauty
+
+En el siglo XVIII dos concepciones sobre la belleza contendían el campo filosófico.
+
+#### Concepción racionalista
+
+##### Belleza platónica
+#plato
+La idea de belleza era inseparable de las ideas de bondad y de divinidad. Expresaba perfección, nobleza y valor y unía el mundo humano finito con lo divino e infinito, enlazando lo mesurable con lo inmensurable.
+###### El banquete
+
+En el Banquete, Platón muestra la ascensión del alma hacia la verdadera Belleza gracias al impulso de Eros. Partiendo de los cuerpos bellos, el hombre se remonta a la contemplación de la belleza que hay en las almas, de modo que puede contemplar darse cuenta del anchuroso océano de las bellezas de las Ideas.
+
+Para Platón esta Belleza esencial posee realidad objetiva, realidad que rebasa la realidad subjetiva de los conceptos abstractos.
+
+Eros o el Amor ocupa un lugar intermedio entre lo divino y lo mortal. Eros hijo de Pobreza e Ingenio; por ser pobre, Eros es deseo de poseer; es el ardiente deseo de poseer la felicidad y de tener siempre con nosotros el bien. Por ello Eros no se limita al deseo físico e incluye también el deseo de inmortalidad. Eros busca la inmortalidad mediante el engendramiento de hijos; pero también busca engendrar en belleza respecto del alma (la herencia de la virtud).
+###### La República
+
+Platón afirma que la Idea del Bien es la causa universal de todas las cosas bellas y buenas. La Idea del Bien es un principio del ser; ha de considerarse idéntica a la Belleza de la que habla en el Banquete. Ambas Ideas son la cima de la Dialéctica o ascensión del espíritu hacia el primer principio de todo, el cual no es otro que el Uno, que su esencia consiste en su unidad.
+###### Teeteto y Filebo
+
+En ellos encontraremos que lo bello es una dato objetivo extraído por nuestra razón y que tiene como paradigma la perfección pitagórica de los cuerpos geométricos, los objetos ordenados, regulares, simétricos, armónicos y proporcionados.
+
+Todo el universo sensible está marcado con la impronta de la belleza pues los elementos que lo componen se reducen a figuras geométricas perfectas. La medida y la proporción son los elementos geométricos de la belleza.
+#### Edad Media
+
 
 ### El sentimiento de lo sublime
 

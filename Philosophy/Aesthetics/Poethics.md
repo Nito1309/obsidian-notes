@@ -2,6 +2,7 @@
 Author: Aristotle
 Publisher: Gredos
 ---
+#aesthetics #aristotle #tragedy
 # I: Objeto de la poética
 
 Incluye en la poetica a:

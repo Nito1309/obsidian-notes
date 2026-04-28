@@ -2,7 +2,7 @@
 Author: Paul Kristellar
 Year: "1951"
 ---
-#aesthetics #philosophy #essay
+#aesthetics #philosophy #essay #beauty #art
 
 ## Introduccion
 El proposito del ensayo refiere a destacar el concepto moderno de las artes a partir del Siglo XVIII. Destaca que anteriormente, el concepto de arte y belleza eran distintos y se ha cometido el error de leer a ciertos autores con la idea moderna. Asimismo, menciona como el cambio destaca con Kant, y posteriormente con en el nombramiento de las cinco bellas artes y su relacion entre ellas, cosa que anteriormente se entendian distinto y carecian de relacion entre ellas.

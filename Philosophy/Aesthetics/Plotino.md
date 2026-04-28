@@ -4,7 +4,7 @@ Year: "2015"
 Name: Plotino. Aprender a pensar.
 Publisher: RBA
 ---
-#aesthetics #philosophy #ethics
+#aesthetics #philosophy #ethics #plotino #neoplatonism #beauty 
 
 ## Crítica al canon de belleza
 

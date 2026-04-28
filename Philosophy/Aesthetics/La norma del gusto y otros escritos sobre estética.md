@@ -83,7 +83,7 @@ En la actualidad, existen al menos tres teorías que mantienen la idea de la nor
 - Todo sentimiento es correcto, porque el sentimiento no tiene referencia a nada fuera de sí (totalmente subjetivo), pero, no todos los juicios son correctos, porque tienen referencia a algo fuera de sí, a una cuestión de hecho.
 - Entre un millar de opiniones, hay una verdadera, entre un millar de sentimientos, todos son correctos.
 ## Las reglas de composición y la belleza
-
+#beauty 
 - **La belleza** no es una cualidad de las cosas mismas; existe sólo en la mente que las contempla, y cada mente percibe una belleza diferente. Buscar la belleza real es tan infructuoso como pretender encontrar el dulzor o amargor real.
 - El dicho popular ha establecido con toda razón que es inútil discutir sobre gustos. Pero, hay también una especie de **sentido común que se le opone**, o al menos sirve para modificarlo y refrenarlo. Nadie presta atención a tales gustos, y sin ningún escrúpulo mantenemos que esos presuntos críticos son absurdos y ridículos. Nos parece un absurdo cuando se comparan objetos muy desproporcionados.
 - Las **reglas de composición** es el mismo que las de las ciencias prácticas: la experiencia. Y no son más que observaciones generales respecto a lo que universalmente se ha visto que complace en todos los países y en todas las épocas.
