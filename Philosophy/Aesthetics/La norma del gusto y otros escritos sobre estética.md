@@ -11,7 +11,6 @@ Year: "2008"
 2. Posibilidad de juicio y sus distintas clases.
 3. Relación entre la norma y el juicio en sus diversas formas.
 
-## Contexto histórico
 En ese momento, las normas no producían graves problemas metodológicos porque eran normas poéticas extraídas de la practica artística y, además, por los sistemas filosóficos pitagóricos y platónicos. Cuando la norma es poco cuestionable, no existe razón para la búsqueda.
 
 Se comienza a romper el sistema metafísico, se ha perdido la fe en el "espíritu de los sistemas" porque se ve en ellos un obstáculo al razonamiento filosófico. En lugar de definir axiomas inmutables, se desea una filosofía más libre, se desea descubrir la forma fundamental de la realidad en la **acción** descubridora.

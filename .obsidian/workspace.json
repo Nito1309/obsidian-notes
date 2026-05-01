@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -156,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 214.5
+    "width": 325.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +173,15 @@
   },
   "active": "a451f269daa31a5f",
   "lastOpenFiles": [
-    "Philosophy/Aesthetics/The modern system of the arts.md",
-    "Philosophy/Aesthetics/Plotino.md",
-    "Philosophy/Aesthetics/Poethics.md",
     "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
     "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
+    "Philosophy/Aesthetics/Beauty.md",
+    "Philosophy/Aesthetics/Plotino.md",
+    "Philosophy/Aesthetics/Poethics.md",
+    "Philosophy/Aesthetics/The modern system of the arts.md",
     "Philosophy/Aesthetics/00 Introduction.md",
     "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
     "Philosophy/Aesthetics/02 Plato on divine inspiration.md",
-    "Philosophy/Aesthetics/Beauty.md",
     "^e.md",
     "Dev/Github actions/Useful commands.md",
     "README.md",

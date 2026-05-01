@@ -101,6 +101,7 @@ Es **entero** aquello que tiene **principio**, **medio** y **fin**.
 - **Fin** es lo que por naturaleza sigue a otra cosa y ninguna le sigue.
 - **Medio** es lo que sigue una cosa y es seguido por otra.
 
+#beauty 
 La **belleza** consiste en **magnitud** y **orden**. Aquello que es bello, no debe ser ni demasiado grande ni demasiado pequeño, debe ser fácilmente apreciado en conjunto.
 - La **magnitud de la tragedia** es la extensión. Debe ser recordable fácilmente. La memoria es con relación a la fabula (argumento), como la vista con relación a los cuerpos. El límite de la magnitud es suficiente, mientras pueda verse en conjunto, sea recordada fácilmente, desarrollándose los acontecimientos en sucesión verosímil y se produce la transición del infortunio a la dicha o viceversa.
 
