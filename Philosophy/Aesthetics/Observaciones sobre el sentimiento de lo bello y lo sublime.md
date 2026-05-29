@@ -140,7 +140,7 @@ La intrínseca es la que posee un objeto en sí mismo; en cambio, la relacional 
 
 Con lo anterior, Home separa el *buen gusto* (belleza relacional) y el "esto es bello" (belleza intrínseca).
 ##### Burke y su perspectiva fisiológica
-Para Burke, los objetos suaves son bellos porque producen efectos placenteros sobre nuestro cuerpo: por ejemplo, una cama blanda nos dispone a todos al descanso y la calma y no sólo a algunas personas con cierto gusto. Por tanto, las preferencias que la gente demuestra con universales y transhistóricas.
+Para Burke, los objetos suaves son bellos porque producen efectos placenteros sobre nuestro cuerpo: por ejemplo, una cama blanda nos dispone a todos al descanso y la calma y no sólo a algunas personas con cierto gusto. Por tanto, las preferencias que la gente demuestra son universales y transhistóricas.
 
 Burke nos ofrece un enfoque fisiológico del placer y una explicación tautológica de la belleza; para él los juicios de gusto tienden a la preservación de la especie humana.
 
@@ -161,7 +161,7 @@ En el siglo XVIII ampliaron este concepto de modo que ya no quedó referido excl
 ##### Burke y su "horror delicioso"
 Burke enlaza lo sublime con las arduas decisiones del heroísmo y con el esfuerzo que reclama enfrentar aquello que nos es extraño y ajeno, aquello que nos sorprende e inquieta por estar más allá de nuestro alcance personal.
 
-Burke proporciona una explicación meramente empírica de lo sublime como una emoción que se genera por un sentimiento de miedo, debido a algo que amenaza nuestra integridad física o nuestra vida, que nos inquieta y produce cierta pena, pero que no deja de excitar en nosotros sentimientos agradables y a veces un verdadero placer al percatarnos de que no estamos en un peligro real; un "horror delicioso".
+Burke proporciona una explicación meramente empírica de lo sublime como una emoción que se genera por **un sentimiento de miedo, debido a algo que amenaza nuestra integridad** física o nuestra vida, que nos inquieta y produce cierta pena, pero que no deja de excitar en nosotros sentimientos agradables y a veces un verdadero placer al percatarnos de que no estamos en un peligro real; un "horror delicioso".
 ## Las propuestas de Kant sobre el sentimiento
 En términos generales, podría decirse que Kant busca una síntesis que permita resolver la controversia entre racionalismo y empirismo preservando los logros definitivos que ha alcanzado cada una de las dos partes contendientes.
 
@@ -193,7 +193,7 @@ Rousseau llevará a Kant a sondear el trasfondo del alma humana; a sustituir el 
 ###### Distinción entre sentido y sentimiento como disposición
 El filósofo hablará de "sentimientos" y no de "sentidos" y ésta será una diferencia importante. Para Kant dichos sentimientos son más bien actitudes, disposiciones del ánimo o, en sus propias palabras, "temples de ánimo".
 ###### Conexión y dependencia entre razón y sentimiento
-Kant sostendrá que "las facultades del alma tienen tan grande conexión entre ellas que muchas veces se puede inferir de la manifestación de los sentimientos los talentos intelectuales" e incluso afirmará que el sentimiento de lo noble y lo bello "debe ser el móvil para aplicar estos dotes intelectuales bien y con regularidad".
+Kant sostendrá que "las facultades del alma tienen tan grande conexión entre ellas que muchas veces **se puede inferir de la manifestación de los sentimientos los talentos intelectuales**" e incluso afirmará que el sentimiento de lo noble y lo bello "debe ser el móvil para aplicar estos dotes intelectuales bien y con regularidad".
 
 Afirma que "la crítica de la razón permite considerar también la crítica del gusto, es decir la estética, ya que las reglas de una permiten explicar las de la otra". Para Kant no es posible concebir una razón aislada de los sentimientos, que el conocimiento está emotivamente condicionado y que los afectos predisponen las acciones.
 #### El sentimiento de respeto hacia la acción moral
@@ -214,6 +214,48 @@ El sentimiento de lo sublime en la naturaleza es respeto hacia nuestra propia de
 Lo sublime no es sólo una gran fuerza, requiere, además, la elevación y nobleza del sujeto. La disposición del ánimo para el sentimiento de lo sublime demanda una apertura y receptividad del ánimo de las ideas; en este caso, recepción y desarrollo de ideas éticas. El mérito de una acción y la integridad del carácter de un ser humano producen en nosotros, lo queramos o no, el sublime sentimiento del respeto.
 ##### Superar los obstáculos
 Sin duda la capacidad del sujeto para determinarse a sí mismo por la idea ética no hace que el sujeto deje de sentir en él obstáculos de diversa especie, pero sí le hace ver su supremacía sobre ellos al superarlos, modificando la disposición de su ánimo de modo tal que puede representarse el bien moral como sublime.
+##### Unidad de diversas facultades 
+Esta unidad no es una unidad sistemática en la que las facultades dependan unas de otras; se trata más bien de una unidad de interrelación vital y orgánica gracias a la cual se establece una conexión tan grande entre las facultades que muchas veces es posible concluir acertadamente, de la manifestación de una de ellas, los rasgos de otra.
+##### Entusiasmo
+Cuando la idea de bien está afectada por afecto, recibe el nombre de entusiasmo. El entusiasmo es calificado como sublime; proporciona al ánimo un impulso que actúa mucho más poderosa y duraderamente que el impulso debido a las representaciones de los sentidos. Si se le quita a la ley moral se le dejará sin emoción alguna y sin ninguna fuerza impulsora.
+##### Ascética ética
+Tiene como finalidad fomentar la buena voluntad, la cual nos remite a dos sentimientos o disposiciones del ánimo en el cumplimiento del deber: el valor y la alegría. Consiste en la disciplina que uno ejerce sobre sí mismo para controlar los sentimientos espontáneos si éstos llegan a ser una amenaza para la moral; pero esta disciplina sólo puede ser meritoria y ejemplar por la alegría que la acompaña.
+##### Sinergia de los sentimientos en la moral
+- El **amor** es un complemento indispensable de la imperfección de la naturaleza humana, entendido éste como la aceptación libre de la voluntad de otro bajo las propias máximas de uno mismo. Lo que no se hace gustosamente con amor, se hace tan mezquinamente que no hay mucho que esperar del mero deber como único móvil si no lo acompaña el amor.
+- La **simpatía** es uno de los impulsos que la naturaleza ha puesto en nosotros para hacer aquello que la representación del deber por sí sola no lograría, de modo que hemos de cultivar y servir ese sentimiento para obrar según los principios morales.
+
+El hombre no sólo puede sino debe relacionar **placer y deber**, i.e. obedecer a su razón con alegría; en tanto que es un ser **racional-sensorial**, la naturaleza le señala el compromiso de no separar lo que ella ha unido.
 ### De lo bello
 
 ## Consideraciones sobre la presente edición y traducción
+
+# Clase
+
+## La percepción sensorial no se equivoca
+Las impresiones no realizan un juicio.
+> "*Se dice correctamente que los sentidos no se equivocan; pero no porque siempre juzguen correctamente, sino porque no juzgan en absoluto.*"
+## Expandir la limitación de la estética
+
+Pasar de la definición de Baumgarten:
+> *"La ciencia que trata del conocimiento sensorial que llega a la aprehensión de lo bello y se expresa en las imágenes del arte"*
+
+En contraposición con la lógica como ciencia del saber cognitivo.
+A la *"La ciencia que trata del conocimiento sensorial"*.
+## Epistemología
+El mundo inteligible (la razón pura) es estrictamente incogniscible, ya que el entendimiento suministra formas que estructuran nuestra experiencia del mundo sensible, donde el conocimiento humano está limitado.
+
+> *"Todo nuestro conocimiento comienza con los sentidos, procede luego al entendimiento y termina con la razón. No hay nada más elevado que la razón."*
+
+Tres facultades de la mente
+1. Sensibilidad: todo conocimiento empieza con los sentidos.
+2. Entendimiento: a partir de los sentidos usas la razón para entender.
+3. Razón:
+	1. Previo a los sentidos. A priori.
+	2. Después de los sentidos. A posteriori.
+
+Cada individuo construye su mundo, su realidad.
+## Dos aspectos de la estética
+### Conceptos estéticos
+#### Ejemplos
+ Bello, sublime, ridículo, feo, fino, encantador, horroroso, exquisito, soberbio, asqueroso.2
+### Valores estéticos

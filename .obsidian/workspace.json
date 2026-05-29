@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
+                "file": "Philosophy/Aesthetics/Qué es el arte.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Observaciones sobre el sentimiento de lo bello y lo sublime"
+              "title": "Qué es el arte"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 315.5
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
+                "file": "Philosophy/Aesthetics/Qué es el arte.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Observaciones sobre el sentimiento de lo bello y lo sublime"
+              "title": "Outline of Qué es el arte"
             }
           }
         ],
@@ -173,14 +172,16 @@
   },
   "active": "a451f269daa31a5f",
   "lastOpenFiles": [
-    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
-    "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
-    "Philosophy/Aesthetics/Beauty.md",
+    "Philosophy/Aesthetics/The modern system of the arts.md",
+    "Philosophy/Aesthetics/Teorías modernas de la estética post-kantiana.md",
+    "Philosophy/Aesthetics/Qué es el arte.md",
     "Philosophy/Aesthetics/Plotino.md",
     "Philosophy/Aesthetics/Poethics.md",
-    "Philosophy/Aesthetics/The modern system of the arts.md",
-    "Philosophy/Aesthetics/00 Introduction.md",
+    "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
+    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
+    "Philosophy/Aesthetics/Beauty.md",
     "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
+    "Philosophy/Aesthetics/00 Introduction.md",
     "Philosophy/Aesthetics/02 Plato on divine inspiration.md",
     "^e.md",
     "Dev/Github actions/Useful commands.md",
