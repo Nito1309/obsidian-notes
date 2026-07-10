@@ -56,7 +56,7 @@ Así con un mensaje transmitido por palabras refleja pensamientos, así un mensa
 > If it appears to us that in our society there is no religious perception, this is not because there
 > really is none, but only because we do not want to see it. And we often wish not to see it because it exposes the fact that our life is inconsistent with that religious perception.
 > ...
-> The religious perception of our time, in its widest and most practical application, is the consciousness that our well‐being, both material and spiritual, individual and collective, temporal and eternal, lies in the growth of brotherhood among all men – in their loving harmony with one another.
+> The religious perception **of our time**, in its widest and most practical application, is the consciousness that our well‐being, both material and spiritual, individual and collective, temporal and eternal, lies in **the growth of brotherhood among all men** – in their loving harmony with one another.
 > Consisting as this labor does, on the one hand, in the destruction of physical and moral obstacles to the union of men, and, on the other hand, in establishing the principles common to all men which can and should unite them into one universal brotherhood.
 
 ### Artist individuality

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophy/Aesthetics/Qué es el arte.md",
+                "file": "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Qué es el arte"
+              "title": "1. Agile, Continuous Delivery, and The Three ways"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315.5
+    "width": 211.5
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophy/Aesthetics/Qué es el arte.md",
+                "file": "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Qué es el arte"
+              "title": "Outline of 1. Agile, Continuous Delivery, and The Three ways"
             }
           }
         ],
@@ -170,13 +170,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a451f269daa31a5f",
+  "active": "c7772636d9dbe4ba",
   "lastOpenFiles": [
+    "Dev/Images/PXL_20260710_000341458.jpg",
+    "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
+    "PXL_20260710_000210464 1.jpg",
+    "Dev/Images/PXL_20260710_000210464.jpg",
+    "Dev/DevOps foundations/DevOps Foundations course.md",
+    "Dev/DevOps Handbook/Untitled",
+    "Dev/DevOps Handbook",
+    "Dev/DevOps foundations/Best practices.md",
+    "Dev/AI Agents/Components.md",
+    "Dev/AI Agents/Assistant vs Agent.md",
+    "Dev/AI Agents/LLM.md",
+    "Dev/AI Agents",
+    "Philosophy/Aesthetics/El nacimiento de la tragedia.md",
+    "Philosophy/Aesthetics/Poethics.md",
+    "Philosophy/Aesthetics/Qué es el arte.md",
     "Philosophy/Aesthetics/The modern system of the arts.md",
     "Philosophy/Aesthetics/Teorías modernas de la estética post-kantiana.md",
-    "Philosophy/Aesthetics/Qué es el arte.md",
     "Philosophy/Aesthetics/Plotino.md",
-    "Philosophy/Aesthetics/Poethics.md",
     "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
     "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
     "Philosophy/Aesthetics/Beauty.md",
@@ -193,21 +206,11 @@
     "Dev/Linux/Virtualization-networking.md",
     "Dev/Linux/Linux commands.md",
     "Dev/Linux/Package managing commands.md",
-    "Dev/Ansible/Useful commands.md",
-    "Dev/Github actions/Runners config commands.md",
     "Dev/Ansible",
     "Dev/Images/Pasted image 20240814141913.png",
     "Dev/Images/Pasted image 20240814202639.png",
-    "Dev/DevOps foundations/Best practices.md",
     "Dev/Github actions",
-    "Dev/Vim/Vim commands.md",
-    "Dev/DevOps foundations/DevOps Foundations course.md",
     "Dev/Images",
-    "Dev/Vim",
-    "conflict-files-obsidian-git.md",
-    "Blog/React roadmap.md",
-    "Blog",
-    "Dev/Linux",
-    "Dev/DevOps foundations"
+    "Dev/Vim"
   ]
 }
