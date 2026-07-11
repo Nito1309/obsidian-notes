@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
+                "file": "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Agile, Continuous Delivery, and The Three ways"
+              "title": "2. The First Way. The Principles of Flow"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 392.5
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
+                "file": "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Agile, Continuous Delivery, and The Three ways"
+              "title": "Outline of 2. The First Way. The Principles of Flow"
             }
           }
         ],
@@ -170,10 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7772636d9dbe4ba",
+  "active": "a451f269daa31a5f",
   "lastOpenFiles": [
-    "Dev/Images/PXL_20260710_000341458.jpg",
     "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
+    "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
+    "Dev/Images/PXL_20260710_000341458.jpg",
     "PXL_20260710_000210464 1.jpg",
     "Dev/Images/PXL_20260710_000210464.jpg",
     "Dev/DevOps foundations/DevOps Foundations course.md",
