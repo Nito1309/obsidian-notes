@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "155a41960f708fa1",
+        "id": "ae9a59f1325368b5",
         "type": "tabs",
         "children": [
           {
-            "id": "a451f269daa31a5f",
+            "id": "bcc4fc239be8fe21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
+                "file": "Dev/Fundamentals of DevOps and Software Delivery/2. How to Manage Your Infrastructure as Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. The First Way. The Principles of Flow"
+              "title": "2. How to Manage Your Infrastructure as Code"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 392.5
+    "width": 392.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8df408a234edf85",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
+                "file": "Dev/Fundamentals of DevOps and Software Delivery/2. How to Manage Your Infrastructure as Code.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. The First Way. The Principles of Flow"
+              "title": "Outline of 2. How to Manage Your Infrastructure as Code"
             }
           }
         ],
@@ -170,48 +171,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a451f269daa31a5f",
+  "active": "bcc4fc239be8fe21",
   "lastOpenFiles": [
+    "Dev/Fundamentals of DevOps and Software Delivery/1. How to Deploy Your App.md",
+    "Dev/Fundamentals of DevOps and Software Delivery/2. How to Manage Your Infrastructure as Code.md",
+    "Philosophy/Aesthetics/Poethics.md",
+    "Philosophy/Aesthetics/Plotino.md",
+    "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
+    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
+    "Philosophy/Aesthetics/El nacimiento de la tragedia.md",
+    "Philosophy/Aesthetics/Beauty.md",
+    "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
+    "Philosophy/Aesthetics/00 Introduction.md",
+    "Dev/AI Agents/LLM.md",
+    "Dev/AI Agents/Components.md",
+    "Dev/AI Agents/Assistant vs Agent.md",
+    "Dev/Vim/Vim commands.md",
+    "Dev/Linux/Virtualization-networking.md",
+    "Dev/Linux/Package managing commands.md",
+    "Dev/Linux/Linux commands.md",
+    "Dev/Github actions/Useful commands.md",
+    "Dev/Github actions/Runners config commands.md",
     "Dev/DevOps Handbook/1. Agile, Continuous Delivery, and The Three ways.md",
+    "Dev/DevOps foundations/Best practices.md",
+    "Dev/DevOps foundations/DevOps Foundations course.md",
+    "Dev/Fundamentals of DevOps and Software Delivery",
     "Dev/DevOps Handbook/2. The First Way. The Principles of Flow.md",
     "Dev/Images/PXL_20260710_000341458.jpg",
     "PXL_20260710_000210464 1.jpg",
     "Dev/Images/PXL_20260710_000210464.jpg",
-    "Dev/DevOps foundations/DevOps Foundations course.md",
     "Dev/DevOps Handbook/Untitled",
     "Dev/DevOps Handbook",
-    "Dev/DevOps foundations/Best practices.md",
-    "Dev/AI Agents/Components.md",
-    "Dev/AI Agents/Assistant vs Agent.md",
-    "Dev/AI Agents/LLM.md",
     "Dev/AI Agents",
-    "Philosophy/Aesthetics/El nacimiento de la tragedia.md",
-    "Philosophy/Aesthetics/Poethics.md",
     "Philosophy/Aesthetics/Qué es el arte.md",
     "Philosophy/Aesthetics/The modern system of the arts.md",
     "Philosophy/Aesthetics/Teorías modernas de la estética post-kantiana.md",
-    "Philosophy/Aesthetics/Plotino.md",
-    "Philosophy/Aesthetics/Observaciones sobre el sentimiento de lo bello y lo sublime.md",
-    "Philosophy/Aesthetics/La norma del gusto y otros escritos sobre estética.md",
-    "Philosophy/Aesthetics/Beauty.md",
-    "Philosophy/Aesthetics/01 On philosophical aesthetics.md",
-    "Philosophy/Aesthetics/00 Introduction.md",
-    "Philosophy/Aesthetics/02 Plato on divine inspiration.md",
-    "^e.md",
-    "Dev/Github actions/Useful commands.md",
-    "README.md",
     "Philosophy/Aesthetics",
     "Philosophy",
-    "Blog/NextJS Roadmap.md",
     "Dev",
-    "Dev/Linux/Virtualization-networking.md",
-    "Dev/Linux/Linux commands.md",
-    "Dev/Linux/Package managing commands.md",
     "Dev/Ansible",
     "Dev/Images/Pasted image 20240814141913.png",
     "Dev/Images/Pasted image 20240814202639.png",
     "Dev/Github actions",
-    "Dev/Images",
-    "Dev/Vim"
+    "Dev/Images"
   ]
 }

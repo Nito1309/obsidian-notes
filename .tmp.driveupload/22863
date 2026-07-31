@@ -1,0 +1,181 @@
+# Benefits
+- Speed and safety
+- Documentation (Logs)
+- Version control (Collaboration)
+- Validation (tests)
+- Self-service (independency)
+- Reuse
+- Happiness
+
+# Ad Hoc Scripts
+You take whatever task you were doing manually, beak it into discrete steps, and use your favorite scripting language to capture each of these steps in code.
+## IaC category criteria
+
+### CRUD
+Most ad hoc scripts handle only one: create. So while ad hoc scripts make it faster to create infrastructure, they don't really help you manage it.
+### Scale
+There's no easy way to scale up scripts to keep track of and manage so much infrastructure.
+### Deployment strategies
+You'd have to write the logic for each deployment strategy from scratch.
+### Idempotency
+Most ad hoc scripts are not idemponent.
+### Consistency (standard)
+You can use any programming language so, it almos always devolves into a mess of unmaintainable spaghetti code.
+### Verbosity (code lines)
+The amount of custom code it takes to manage all this with ad hoc scripts quickly become untenable.
+## Key Takeaway
+
+> ***Ad hoc scripts are the glue and duct tape of the DevOps world. They are great form small, one-off tasks, but no for managing all your infrastructure.***
+
+# Configuration management tools
+*Configure servers to run software.*
+
+These tools first started to appear before cloud computing was ubiquitous, so they were originally designed to assume that someone else had done the work of setting up the hardware and the primary purpose of these tools was to handle the software, including configuring the OS, installing dependencies, and deploying and updating apps.
+
+Most configuration management tools work to update your servers to match the desired state in your code. To update your servers, configuration management tools rely on the following two items:
+- **Management servers:** responsible for communicating with the rest of your API to manage those servers, and running a ***<u>reconciliation loop</u>*** to continuously ensure that the configuration of each server matches your desired configuration.
+- **Agents:** which are responsible for connecting to and authenticating with the management servers. You can configure the management servers to either push changes to these agents or to have the agents pull changes from the management server.
+
+> Whether you rely on agents or SSH, this leads to a chicken-and-end problem:
+> - To be able to configure your servers (CM tools) you first have to configure your servers (SSH or agents).
+
+## Ansible
+### Inventory file
+You can put the IP addresses of the <u>physical servers on prem</u> you want configure.
+#### Groups
+You'll then be able to write Ansible playbooks that target the hosts in specific groups.
+```yaml
+webservers: # Group name
+	hosts:
+		10.16.10.5:
+		10.16.10.6:
+```
+#### Inventory plugin
+If you are running <u>servers in the cloud</u>, where your servers come and go often and IP addresses change frequently you're better off using an *inventory plugin* that can dynamically discover your servers.
+```yaml
+# inventory.aws_ec2.yml
+
+plugin: amazon.aws.aws_ec2
+regions:
+ - us-east-2
+keyed_groups:
+ - key: tags.Ansible # There are VMs with tag Ansible:runners
+leading_separator: '' # by default: '_<GROUP NAME>'
+```
+
+#### Group variables
+For each group in your inventory, you can specify *group variables* to configure how to connect to the servers in that group. You define these variable in YAML files in the *group_vars* folder:
+```yaml
+# group_vars/runners.yml
+
+ansible_user: ec2-user # For Amazon Linux AMIs
+ansible_ssh_private_key_file: ec2_machines.key
+ansible_host_key_checking: false # avoid interactive prompts
+```
+
+### Ansible roles
+Defines a logical profile of an application in a way that promotes modularity and code reuse.
+```yaml
+roles
+└── my_custom_role
+    ├── defaults
+    │   └── main.yml
+	├── files # to copy to the server
+    │   └── foo.txt
+    ├── handlers
+    │   └── main.yml
+    ├── tasks # to run in a server
+    │   └── main.yml
+    ├── templates # dinamically fill data in files
+    │   └── foo.txt.j2
+    └── vars
+	    └── main.yml
+
+```
+
+```yaml
+# configure_sample_app_playbook.yml
+
+- name: configure ec2 instance to run a simple app
+  hosts: runners # Group variable
+  gather_facts: true
+  become: true
+  roles:
+	  - my_custom_role
+```
+
+```bash
+
+$ ansible-playbook -v -i inventory.aws_ec2.yml configure_sample_app_playbook.yml 
+```
+
+The process would be:
+```
+[AWS EC2 API] ──> [inventory.aws_ec2.yml] ──(Creates Groups)──> [group_vars/<group_name>.yml] ──> [Playbook]
+```
+
+1. Ansible parses `inventory.aws_ec2.yml` and discovers all EC2 instances in `us-east-2`.   
+2. It assigns instances to groups like `Ansible:runners` based on their AWS tags.
+3. It searches `group_vars/` for `runners.yml`.
+4. Your playbook executes tasks on those hosts using those variables.
+
+## IaC category criteria
+
+### CRUD
+Most CM tools support three of the four CRUD. Do not support delete.
+It works only if you remember to assign each piece of infrastructure a unique name or tag, which is easy to do with just a handful of resources but becomes more challenging at scale.
+### Scale
+Most CM tools are designed specifically for **managing** multiple remote servers. Limited at scale.
+### Deployment strategies
+Some configuration management tools have built-in support for deployment strategies.
+### Idempotency
+Some tasks you do with configuration management tools are idempotent, and some are not. 
+Arbitrary `shell` tasks may or may not be idempotent.
+### Consistency (standard)
+Most CM tools enforce a consistent, predictable structure to the code. e.g. Ansible roles structure.
+### Verbosity (code lines)
+Most CM tools provide a DSL for specifying server configuration that is more concise than the equivalent in an ad hoc script. 80 lines of Ansible code are doing considerably more.
+
+## Drawbacks
+1. Considerable setup cost.
+2. Most CM tools were designed for *mutable infrastructure* paradigm.
+## Mutable infrastructure
+It is a paradigm where you have long-running servers that the CM tools update (mutate) over and over again, for many years. This can be problematic because of *configuration drift*.
+#### Configuration drift
+It is where over time, your long-running servers can build up unique histories of changes, so each server is subtly different from the others. This can be hard to reason about what's deployed and even harder to reproduce the issue on another server, all of which makes debugging challenging. Usually, this is caused by manual intervention (an urgent fix which is not trackable).
+## Immutable infrastructure
+It is a paradigm where you use short-live virtual servers that you replace every time you do an update. This is inspired in functional programming, where variables are immutable. Because variables never change, reasoning about your code is easier.
+## Cattle versus pets
+With mutable infrastructure, you treat your servers like pets, giving each a unique name, taking care of it, and trying to keep it alive as long as possible.
+With immutable infrastructure, you treat your servers like cattle, each more or less indistinguishable from the others, with random IDs instead of names, and you kill them off and replace them regularly.
+## Key takeaway
+
+> ***CM tools are great for managing the configuration of servers, but not for deploying the servers themselves or other infrastructure.***
+# Server templating tools
+## IaC category criteria
+
+### CRUD
+
+### Scale
+
+### Deployment strategies
+### Idempotency
+
+### Consistency (standard)
+
+### Verbosity (code lines)
+
+# Provisioning tools
+
+## IaC category criteria
+
+### CRUD
+
+### Scale
+
+### Deployment strategies
+### Idempotency
+
+### Consistency (standard)
+
+### Verbosity (code lines)
